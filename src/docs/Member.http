@@ -1,0 +1,30 @@
+# 엔티티 저장
+POST http://localhost:8080/api/members
+Content-Type: application/json
+
+< ./Member.json
+
+###
+
+# 엔티티 document로 전환해서 ES에 저장
+POST http://localhost:8080/api/memberDocuments
+
+###
+
+# 닉네임 검색
+GET http://localhost:8080/api/members/nickname?nickname=hongil1&size=10
+
+###
+
+# 나이 검색
+GET http://localhost:8080/api/members/age?age=27&size=10
+
+###
+
+# 조건 검색
+GET http://localhost:8080/api/members?name=홍길동
+
+###
+
+# 일부 조건만 넣어 검색
+GET http://localhost:8080/api/members?nickname=hongil1&age=27&size=10
