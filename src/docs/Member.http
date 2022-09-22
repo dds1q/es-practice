@@ -22,7 +22,7 @@ GET http://localhost:8080/api/members/age?age=27&size=10
 ###
 
 # 조건 검색
-GET http://localhost:8080/api/members?name=홍길동
+GET http://localhost:8080/api/members?name=이동규
 
 ###
 

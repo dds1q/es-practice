@@ -14,7 +14,7 @@ import static org.springframework.data.elasticsearch.annotations.DateFormat.epoc
 @Builder
 @AllArgsConstructor
 @NoArgsConstructor(access = AccessLevel.PROTECTED)
-@Document(indexName = "member")
+@Document(indexName = "member_test")
 @Mapping(mappingPath = "elastic/member-mapping.json")
 @Setting(settingPath = "elastic/member-setting.json")
 public class MemberDocument {

@@ -1,88 +1,18 @@
 {
   "memberSaveRequestList": [
     {
-      "name": "홍길동1",
-      "nickname": "hongil1",
+      "name": "이동규 ",
+      "nickname": "dds1q",
       "age": 27,
       "zoneId": 1,
-      "description": "안녕하세요 안녕하세요 안녕하세요 안녕하세요 안녕하세요 안녕하세요 안녕하세요 안녕하세요 안녕하세요 홍길도입니다. 만나서 반갑습니다."
+      "description": "haha"
     },
     {
-      "name": "홍길동1",
-      "nickname": "hongil1",
-      "age": 27,
+      "name": "ddd123",
+      "nickname": "1q2w3e4r",
+      "age": 25,
       "zoneId": 1,
-      "description": "안녕하세요 안녕하세요 안녕하세요 안녕하세요 안녕하세요 안녕하세요 안녕하세요 홍길도입니다. 만나서 반갑습니다."
-    },
-    {
-      "name": "홍길동1",
-      "nickname": "hongil1",
-      "age": 27,
-      "zoneId": 1,
-      "description": "안녕하세요 안녕하세요 안녕하세요 안녕하세요 안녕하세요 홍길도입니다. 만나서 반갑습니다."
-    },
-    {
-      "name": "홍길동2",
-      "nickname": "hongil2",
-      "age": 27,
-      "zoneId": 1,
-      "description": "안녕하세요 안녕하세요 홍길도입니다. 만나서 반갑습니다."
-    },
-    {
-      "name": "홍길동2",
-      "nickname": "hongil2",
-      "age": 27,
-      "zoneId": 1,
-      "description": "안녕하세요 홍길도입니다. 만나서 반갑습니다."
-    },
-    {
-      "name": "홍길동3",
-      "nickname": "hongil3",
-      "age": 27,
-      "zoneId": 1,
-      "description": "안녕하세요 홍길도입니다. 만나서 반갑습니다."
-    },
-    {
-      "name": "홍길동4",
-      "nickname": "hongil4",
-      "age": 27,
-      "zoneId": 1,
-      "description": "안녕하세요 홍길도입니다. 만나서 반갑습니다."
-    },
-    {
-      "name": "홍길동4",
-      "nickname": "hongil4",
-      "age": 27,
-      "zoneId": 1,
-      "description": "안녕하세요 홍길도입니다. 만나서 반갑습니다."
-    },
-    {
-      "name": "홍길동4",
-      "nickname": "hongil4",
-      "age": 27,
-      "zoneId": 1,
-      "description": "안녕하세요 홍길도입니다. 만나서 반갑습니다."
-    },
-    {
-      "name": "홍길동4",
-      "nickname": "hongil4",
-      "age": 27,
-      "zoneId": 1,
-      "description": "안녕하세요 홍길도입니다. 만나서 반갑습니다."
-    },
-    {
-      "name": "홍길동3333333",
-      "nickname": "hongil41",
-      "age": 29,
-      "zoneId": 1,
-      "description": "안녕하세요 홍길도입니다. 만나서 반갑습니다."
-    },
-    {
-      "name": "홍길동567",
-      "nickname": "hongil4",
-      "age": 24,
-      "zoneId": 1,
-      "description": "안녕하세요"
+      "description": "응애ㅐㅐ."
     }
   ]
 }
